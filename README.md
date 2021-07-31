@@ -16,9 +16,15 @@ Working with the application is intuitive ;)
 > 3) Without the implementation "auto-solver", it is practically impossible to manually pass the levels starting from the 3rd
 
 _`These problems are solvable, but require more time and experience to implement them.`_
- 
- <br>
- <br>
+
+<br>
+<br>
+
+Get password lvl: 
+1. verify: Correct! Password: JustWarmingUp
+
+<br>
+<br>
  
 # Dev part
 
